@@ -5,4 +5,4 @@
 
 ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-192133?style=flat-square&logo=c&logoColor=white)
-![RUST](https://img.shields.io/badge/-rust-192133?style=flat-square&logo=rust&logoColor=white)
+![RUST](https://img.shields.io/badge/-rust-192133?style=flat-square&logo=Rust&logoColor=white)

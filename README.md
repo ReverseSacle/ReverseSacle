@@ -1,5 +1,5 @@
 <a href="https://github.com/ReverseSacle">
-  <img align="left" src="https://readme-eta-three.vercel.app/api?username=anuraghazra&count_private=true&custom_title=ReverseSacle'%20GitHub%20Stats&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+  <img align="left" src="https://readme-eta-three.vercel.app/api?username=ReverseSacle&count_private=true&custom_title=ReverseSacle'%20GitHub%20Stats&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 
 ![C](https://img.shields.io/badge/-C-192133?style=flat-square&logo=c&logoColor=white)

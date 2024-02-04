@@ -1,6 +1,5 @@
-<a href="#" class="clearfix">
+<a href="#">
   <img height="200" style="pointer-events: none;float: left;" src="https://readme-amber.vercel.app/api?username=ReverseSacle&show_icons=true&include_all_commits=true&exclude_repo=ReadMe&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=ffe6fa" />
-    <img align="bottom" style="pointer-events: none;float: left;" src="https://readme-amber.vercel.app/api/top-langs/?username=ReverseSacle&layout=compact&exclude_repo=ReadMe,ReverseSacle.github.io,_MiniValine&hide=CMake,Shell,Cuda,stylus,Nunjucks" />
 </a>
 <h2>Languages for work</h2>
 <a href="#">

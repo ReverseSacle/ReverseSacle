@@ -19,5 +19,6 @@
   <img style="pointer-events: none;" src="https://img.shields.io/badge/-Make-192133?style=flat-square&logo=make&logoColor=white" />
   <img style="pointer-events: none;" src="https://img.shields.io/badge/-MySQL-192133?style=flat-square&logo=mysql&logoColor=white" />
   <img style="pointer-events: none;" src="https://img.shields.io/badge/-Nginx-192133?style=flat-square&logo=nginx&logoColor=white" />
+    <img style="pointer-events: none;" src="https://img.shields.io/badge/-OBS Studio-192133?style=flat-square&logo=OBS Studio&logoColor=white" />
 </a>
 

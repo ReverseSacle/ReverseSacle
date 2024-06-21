@@ -1,9 +1,6 @@
-<div>
-  <a href="#">
-    <img height="200" style="pointer-events: none;float: left;" src="https://readme-for-github.vercel.app/api?username=ReverseSacle&show_icons=true&include_all_commits=true&exclude_repo=ReadMe&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=ffe6fa" />
-  </a>
-  <a href="#"><img src="/mona.gif" width="200" height="200" /></a>
-</div>
+<a href="#">
+  <img height="200" style="pointer-events: none;float: left;" src="https://readme-for-github.vercel.app/api?username=ReverseSacle&show_icons=true&include_all_commits=true&exclude_repo=ReadMe&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=ffe6fa" />
+</a>
 
 <h2>Languages for work</h2>
 <a href="#">

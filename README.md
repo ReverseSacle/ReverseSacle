@@ -3,15 +3,12 @@
   <img style="pointer-events: none;float: left;" src="https://readme-for-github.vercel.app/api/top-langs/?username=ReverseSacle&langs_count=8&hide=cuda,nunjucks,ejs,qmake,cmake,makefile,shell&layout=compact&hide_title=true&exclude_repo=readme-for-github,Gallery,waline-for-blog,_MiniValine,hexo-renderer-multi-markdown-it,ReverseSacle,ReverseSacle.github.io" />
 </a>
 
-<h2>Languages for work</h2>
+<h2>Languages and Tools could use</h2>
 <a href="#">
   <img style="pointer-events: none;" src="https://img.shields.io/badge/-C-192133?style=flat-square&logo=c&logoColor=white" />
   <img style="pointer-events: none;" src="https://img.shields.io/badge/-C++-192133?style=flat-square&logo=cplusplus&logoColor=white" />
-</a>
-
-<h2>Languages and Tools could use</h2>
-<a href="#">
   <img style="pointer-events: none;" src="https://img.shields.io/badge/-Rust-192133?style=flat-square&logo=Rust&logoColor=white" />
+    <img style="pointer-events: none;" src="https://img.shields.io/badge/-Python-192133?style=flat-square&logo=Python&logoColor=white" />
   <img style="pointer-events: none;" src="https://img.shields.io/badge/-HTML-192133?style=flat-square&logo=html5&logoColor=white" />
   <img style="pointer-events: none;" src="https://img.shields.io/badge/-CSS-192133?style=flat-square&logo=css3&logoColor=white" />
   <img style="pointer-events: none;" src="https://img.shields.io/badge/-JavaScript-192133?style=flat-square&logo=javascript&logoColor=white" />

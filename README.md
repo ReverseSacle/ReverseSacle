@@ -6,9 +6,9 @@
 <h2>Languages and Tools could use</h2>
 <a style="pointer-events: none;float: left;cursor:default;" href="#">
   <img style="pointer-events: none;" src="https://img.shields.io/badge/-C-192133?style=flat-square&logo=c&logoColor=white" />
-  <img style="pointer-events: none;" src="https://img.shields.io/badge/-C++-192133?style=flat-square&logo=cplusplus&logoColor=white" />
+  <!--<img style="pointer-events: none;" src="https://img.shields.io/badge/-C++-192133?style=flat-square&logo=cplusplus&logoColor=white" />-->
   <img style="pointer-events: none;" src="https://img.shields.io/badge/-Rust-192133?style=flat-square&logo=Rust&logoColor=white" />
-    <img style="pointer-events: none;" src="https://img.shields.io/badge/-Python-192133?style=flat-square&logo=Python&logoColor=white" />
+  <img style="pointer-events: none;" src="https://img.shields.io/badge/-Python-192133?style=flat-square&logo=Python&logoColor=white" />
   <img style="pointer-events: none;" src="https://img.shields.io/badge/-HTML-192133?style=flat-square&logo=html5&logoColor=white" />
   <img style="pointer-events: none;" src="https://img.shields.io/badge/-CSS-192133?style=flat-square&logo=css3&logoColor=white" />
   <img style="pointer-events: none;" src="https://img.shields.io/badge/-JavaScript-192133?style=flat-square&logo=javascript&logoColor=white" />
